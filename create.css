@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 40px;
+    max-width: 450px;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.container img {
+    width: 75px;
+    display: block;
+    margin: 0 auto 20px;
+}
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #202124;
+    text-align: center;
+}
+.input-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.input-group input {
+    width: 48%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+}
+.full-width {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.full-width input {
+    width: calc(100% - 80px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+}
+.full-width span {
+    display: inline-block;
+    width: 70px;
+    text-align: center;
+    font-size: 16px;
+    color: #5f6368;
+    vertical-align: middle;
+}
+.link {
+    color: #1a73e8;
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 20px;
+}
+.password-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.password-group input {
+    width: 48%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+}
+.password-group .fa-eye {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.info-text {
+    font-size: 12px;
+    color: #5f6368;
+    margin-bottom: 20px;
+}
+.next-button {
+    background-color: #1a73e8;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #5f6368;
+    margin-top: 20px;
+}
+.footer a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+.footer select {
+    border: none;
+    background: none;
+    font-size: 12px;
+    color: #5f6368;
+}
+.illustration {
+    text-align: center;
+    margin-top: 20px;
+}
+.illustration img {
+    width: 100px;
+}
+.illustration p {
+    font-size: 14px;
+    color: #5f6368;
+}
