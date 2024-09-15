@@ -1,6 +1,6 @@
 # PACE Explorer
 
-**PACE Explorer** is an educational project aimed at providing a comprehensive, 30-day video series exploring NASA’s **PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)** mission. Each video is an hour long, diving deep into PACE’s scientific goals, technology, and impact on understanding Earth’s climate.
+**PACE Explorer** outlines an interactive, web-based platform designed to provide students with access to NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) data. It offers tools for analyzing and visualizing this data through educational modules, games, and simulations tailored to various age groups and skill levels.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ For more information on NASA’s PACE mission, visit the [official website](http
 
 - **30-day video series**: Each video breaks down specific aspects of the PACE mission.
 - **Educational content**: Learn about Earth’s ecosystems, atmospheric aerosols, and the significance of clouds.
-- **Data Visualization**: Access to real-time and archived visual data related to the PACE mission.
+- **Data Visualization**: Access to real-time and archived visual data related to the PACE mission , and many more features
 
 ## Installation
 
